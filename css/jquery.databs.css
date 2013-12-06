@@ -1,0 +1,4 @@
+.databs ul{margin:0;padding: 0;}
+.databs ul li a{border-left:1px solid #ccc;border-right:1px solid #ccc;border-top:1px solid #ccc;display:inline-block;padding: 5px 10px;text-decoration: none;outline: none}
+.databs .databs-content{border:1px solid #ccc;padding: 10px 20px;top:-1px;position: relative;background-color: #f0f0f0;overflow-y:auto;}	
+.databsSelected{background-color: #f0f0f0 !important;position: relative;z-index: 100;}	
